@@ -31,7 +31,6 @@ const products = pgTable('products', {
 });
 
 
-
 module.exports = {
 
    users,
